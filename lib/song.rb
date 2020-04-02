@@ -12,6 +12,7 @@ class Song
   
   def self.create
     self.new(:name, :artist_name)
+    self.
   end
 
 end

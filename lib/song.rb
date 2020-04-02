@@ -11,7 +11,7 @@ class Song
   end
   
   def self.create
-    self.new(:name, :artist_name)
+    song = self.new 
     self.
   end
 
